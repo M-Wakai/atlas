@@ -4,16 +4,21 @@
 }
 
 #main {
+    float: left;
+    width: 50%;
 	height: 300px;
     background-color: #cc0;
 }
 
 #sub {
+    float: right;
+    width: 50%;
 	height: 300px;
     background-color: #54c;
 }
 
 #footer {
+    clear: both;
 	height: 100px;
     background-color: #c43e92;
 }
